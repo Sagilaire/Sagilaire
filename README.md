@@ -3,6 +3,10 @@
 💻 **Tech Lead Frontend**  
 🎯 Desarrollador enfocado en construir productos sólidos y escalables  
 
+---
+
+### 🚀 Sobre mí
+Me enfoco en **código mantenible** y **arquitecturas escalables**, priorizando buenas prácticas, DX y decisiones técnicas que envejezcan bien.
 <!--
 **sagillairehq/sagillairehq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
