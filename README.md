@@ -3,8 +3,6 @@
   <p>Tech Lead Frontend | React & TypeScript | Arquitecturas limpias y escalables</p>
 </div>
 
-# 👋 Hola, soy Juan Santis
-
 💻 **Tech Lead Frontend**  
 🎯 Desarrollador enfocado en construir productos sólidos y escalables  
 
