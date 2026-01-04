@@ -1,3 +1,8 @@
+<div align="center">
+  <h1>👋 Hola, soy Juan Santis (Sagillaire)</h1>
+  <p>Tech Lead Frontend | React & TypeScript | Arquitecturas limpias y escalables</p>
+</div>
+
 # 👋 Hola, soy Juan Santis
 
 💻 **Tech Lead Frontend**  
