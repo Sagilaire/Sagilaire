@@ -3,13 +3,16 @@
   <p>Tech Lead Frontend | React & TypeScript | Arquitecturas limpias y escalables</p>
 </div>
 
-💻 **Tech Lead Frontend**  
-🎯 Desarrollador enfocado en construir productos sólidos y escalables  
-
----
-
-### 🚀 Sobre mí
-Me enfoco en **código mantenible** y **arquitecturas escalables**, priorizando buenas prácticas, DX y decisiones técnicas que envejezcan bien.
+<!-- Badges de info -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/jasantise/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <img src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-%235A29E4?style=for-the-badge" alt="Clean Architecture"/>
+</p>
 
 ---
 
