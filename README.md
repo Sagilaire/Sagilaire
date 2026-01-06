@@ -35,14 +35,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <!-- Necesitas un generador como github-profile-summary-cards o readme-stats -->
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Sagillaire&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagillaire&layout=compact&theme=tokyonight" />
-</p>
-
 ### 🛠️ Tecnologías
 - React  
 - TypeScript  
