@@ -16,6 +16,11 @@
 
 ---
 
+### 🔭 Acerca de mí
+- 📌 **Tech Lead Frontend** con foco en soluciones sostenibles  
+- 🧠 Construyo software con **arquitecturas limpias y mantenibles**  
+- ✨ Me interesa que el código sea fácil de entender y extender por cualquier equipo
+
 ### 🛠️ Tecnologías
 - React  
 - TypeScript  
