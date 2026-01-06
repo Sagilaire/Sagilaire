@@ -21,6 +21,18 @@
 - 🧠 Construyo software con **arquitecturas limpias y mantenibles**  
 - ✨ Me interesa que el código sea fácil de entender y extender por cualquier equipo
 
+---
+
+### 🚀 Lenguajes & Herramientas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TanStack-%23007ACC?style=flat-square" />
+  <img src="https://img.shields.io/badge/-CleanArch-%235A29E4?style=flat-square" />
+</p>
+
 ### 🛠️ Tecnologías
 - React  
 - TypeScript  
