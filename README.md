@@ -38,10 +38,6 @@
 ### 🌍 Idiomas
 🇪🇸 Español (Nativo) • 🇬🇧 Inglés (B1)
 
----
-
-<sub>✨ Este perfil está diseñado para ser **claro, visual y profesional**, con un toque creativo sin exceso de información.</sub>
-
 ### 🛠️ Tecnologías
 - React  
 - TypeScript  
