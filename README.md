@@ -38,13 +38,6 @@
 ### 🌍 Idiomas
 🇪🇸 Español (Nativo) • 🇬🇧 Inglés (B1)
 
-### 🛠️ Tecnologías
-- React  
-- TypeScript  
-- TanStack  
-- Node.js  
-- Clean Architecture
-
 ---
 
 ### 🌍 Idiomas
