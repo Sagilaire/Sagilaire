@@ -38,17 +38,4 @@
 ### 🌍 Idiomas
 🇪🇸 Español (Nativo) • 🇬🇧 Inglés (B1)
 
----
-
-### 🌍 Idiomas
-- Español (nativo)  
-- Inglés (B1)
-
----
-
-### 📫 Conectemos
-- 💼 [LinkedIn](https://www.linkedin.com/in/jasantise/)
-
----
-
 > _“Menos magia, más claridad.”_
