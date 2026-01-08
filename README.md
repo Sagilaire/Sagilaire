@@ -37,5 +37,3 @@
 
 ### 🌍 Idiomas
 🇪🇸 Español (Nativo) • 🇬🇧 Inglés (B1)
-
-> _“Menos magia, más claridad.”_
